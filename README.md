@@ -61,6 +61,18 @@ Library：
  * Eslint：檢查 Code ，維持 Code 品質
  * react-spinners：loading 樣式相關套件
 
+### 後端  
+
+Json server  
+
+專案repo：https://github.com/david-christian/spa-jsonserver  
+
+以 Json server 作為專案後端，並做一些功能上的微改寫完成需求，做為專案資料來源  
+前後端 API 以 RESTFUL 風格實作，並部署在 Heroku  
+
+Library：
+  * jsonwebtoken：完成登錄功能的驗證
+
 
 
 
