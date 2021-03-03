@@ -16,5 +16,52 @@
 
 ### 會員系統  
 
+有註冊、登入等相關功能，用 JWT 做驗證  
+  
+![](https://i.imgur.com/A3ahwdk.png)  
+  
+### 瀏覽文章  
+
+以小區塊展示使用者的發送的文章，最新的文章會最前面  
+有分頁功能，一頁最多五篇文章  
+
+![](https://i.imgur.com/vEEjtp6.png)  
+  
+### 單篇文章
+  
+點擊首頁的小區塊文章，即可瀏覽單篇文章  
+
+![](https://i.imgur.com/A2krjYY.png)  
+
+### 管理文章  
+
+發佈該文章的使用者有權編輯、刪除，admin有權刪除所有文章  
+
+![](https://i.imgur.com/S93v2cM.png)  
+
+### 發佈文章  
+
+發佈介面可以預覽圖片，如果使用者發佈文章時沒有圖片
+會自動預設一張圖片當作封面  
+
+![](https://i.imgur.com/XxjW6t7.png)  
+
+---  
+
+## 專案技術  
+
+### 前端  
+
+框架： React Hooks  
+
+Library：
+ * react-router-dom：建立路由，以完成 SPA 架構
+ * styled-components：在 JSX 中撰寫 CSS code，用props 值來動態改變 css 樣式
+ * Prettier：使 Code 撰寫風格一致  
+ * Eslint：檢查 Code ，維持 Code 品質
+ * react-spinners：loading 樣式相關套件
+
+
+
 
 
