@@ -1,7 +1,6 @@
 # Cake Garden 蛋糕交流  
 
 ## 專案說明  
----
 
 前端： React Hooks  
 後端： JSON server  
@@ -12,5 +11,10 @@
 ![](https://i.imgur.com/GAkkAYx.png)  
 
 ---  
+
+## 主要功能  
+
+### 會員系統  
+
 
 
